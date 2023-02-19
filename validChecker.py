@@ -1,8 +1,6 @@
 '''
 Determine whether each code is valid or not
 Output results of codes to lists that will be called in Assign2.py
-Created by: William Zhang, CS1026A
-Student ID: 251215208
 '''
 #function removes last digit, sums each digit in the code number, modulo 10 the sum,
 #and check if the last digit equals the sum modulo of 10
