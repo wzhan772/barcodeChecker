@@ -1,8 +1,6 @@
 '''
 Take a user's integer input and call each code check function (basic, positional, and upc)
 Stop when the user enters 0
-Created by: William Zhang, CS1026A
-Student ID: 251215208
 '''
 #import functions from code_check.py
 from code_check import BasicCode, PosCode, UPC
